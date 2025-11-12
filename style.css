@@ -190,9 +190,9 @@
 .social-links a:nth-child(4) i { color: #ff6f6f; } /* Itch.io red */
 
 
-.banner img {
+.banner img{
   width: 100%;                
-  background-image: url('files/Backgound.png');
+  background-image: url('files/Background.png');
   background-repeat: repeat-x;
   background-size: auto 100%; 
   background-position: top;
